@@ -108,22 +108,22 @@
 
 #### Fundamentals
 
-  - [ ] JavaScript introduction [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#what_is_javascript)
+  - [x] JavaScript introduction [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction#what_is_javascript)
    - [ ] Adding JavaScript to an HTML page using `script` [Article](https://www.digitalocean.com/community/tutorials/html-script-tag)
-   - [ ] `console.log` [Article](https://www.freecodecamp.org/news/javascript-console-log-example-how-to-print-to-the-console-in-js/)
-   - [ ] Comments [Article](https://stackabuse.com/commenting-code-in-javascript-types-and-best-practices/)
-   - [ ] Variables [Article](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference) [Video](https://egghead.io/lessons/javascript-working-with-var-let-const-and-block-scopes?af=5buvlr)
-        - [ ] `var`
-        - [ ] `let` [Video](https://egghead.io/lessons/javascript-the-let-keyword-in-es6?af=5buvlr)
-        - [ ] `const` [Video](https://egghead.io/lessons/javascript-const-declarations-in-es6-es2015)
-   - [ ] Data types [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
-        - [ ] String 
-        - [ ] Boolean
-        - [ ] Number 
-        - [ ] null 
-        - [ ] undefined
-   - [ ] `typeof` operator [Article](https://www.freecodecamp.org/news/javascript-data-types-typeof-explained/)
-   - [ ] String functions 
+   - [x] `console.log` [Article](https://www.freecodecamp.org/news/javascript-console-log-example-how-to-print-to-the-console-in-js/)
+   - [x] Comments [Article](https://stackabuse.com/commenting-code-in-javascript-types-and-best-practices/)
+   - [x] Variables [Article](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference) [Video](https://egghead.io/lessons/javascript-working-with-var-let-const-and-block-scopes?af=5buvlr)
+        - [x] `var`
+        - [x] `let` [Video](https://egghead.io/lessons/javascript-the-let-keyword-in-es6?af=5buvlr)
+        - [x] `const` [Video](https://egghead.io/lessons/javascript-const-declarations-in-es6-es2015)
+   - [x] Data types [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+        - [x] String 
+        - [x] Boolean
+        - [x] Number 
+        - [x] null 
+        - [x] undefined
+   - [x] `typeof` operator [Article](https://www.freecodecamp.org/news/javascript-data-types-typeof-explained/)
+   - [x] String functions 
         - [ ] `.concat` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/concat)
         - [ ] `length` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
         - [ ] `toUpperCase` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase)
@@ -131,7 +131,7 @@
         - [ ] `subString` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring)
         - [ ] `split` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
         - [ ] template literals [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) [Video](https://egghead.io/lessons/javascript-use-template-literals-to-embed-expressions-in-strings?af=5buvlr)
-- [ ] Operators
+- [x] Operators
     - [ ] Arithmetic Operators [Article](https://www.w3schools.com/jsref/jsref_operators.asp)
         - [ ] `+`
         - [ ] `-`
@@ -140,7 +140,7 @@
         - [ ] `++` 
         - [ ] `--`
         - [ ] `%`
-    - [ ] Assignment Operators [ Article ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators)    
+    - [x] Assignment Operators [ Article ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators)    
         - [ ] `=` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment)
     - [ ] `<`
     - [ ] `>` 
@@ -152,40 +152,40 @@
     - [ ] `||` 
     - [ ] `Ternary operators ? , :`
    - [ ] Loops
-     - [ ] `for`
+     - [x] `for`
      - [ ] `while`
    - [ ] Conditionals
-     - [ ] `if... else`
+     - [x] `if... else`
      - [ ] `switch`
- - [ ] Array
-    - [ ] Accessing elements
-    - [ ] Looping through elements         
-        - [ ] `map` 
-        - [ ] `forEach`
-    - [ ] `splice`
-    - [ ] `slice`
-    - [ ] `filter`
-    - [ ] `push`, `pop`
-    - [ ] `shift`, `unshift`
+ - [x] Array
+    - [x] Accessing elements
+    - [x] Looping through elements         
+        - [x] `map` 
+        - [x] `forEach`
+    - [x] `splice`
+    - [x] `slice`
+    - [x] `filter`
+    - [x] `push`, `pop`
+    - [x] `shift`, `unshift`
     - [ ] `isArray`
-    - [ ] `indexOf`
+    - [x] `indexOf`
 - [ ] Object
-     - [ ] Accessing properties
+     - [x] Accessing properties
      - [ ] Object destructuring
-     - [ ] Looping through elements
-       - [ ] `for... of`
-       - [ ] `forEach`
+     - [x] Looping through elements
+       - [x] `for... of`
+       - [x] `forEach`
        - [ ] `.entries`, `.keys`
        - [ ] `.create`
        - [ ] `.hasOwnProperty`
-   - [ ] JSON objects
-     - [ ] `JSON.stringify`
-   - [ ] Functions
-     - [ ] Named functions
+   - [x] JSON objects
+     - [x] `JSON.stringify`
+   - [x] Functions
+     - [x] Named functions
      - [ ] Anonymous functions
-     - [ ] Arrow functions `() => { }`
+     - [x] Arrow functions `() => { }`
      - [ ] IIFE - Immediately Invoked Function Expressions
-   - [ ] `this` keyword [Video series](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth?af=5buvlr)
+   - [x] `this` keyword [Video series](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth?af=5buvlr)
    - [ ] Constructor functions
      - [ ] Instantiating a new object
      - [ ] Accessing properties and methods
@@ -221,7 +221,7 @@
 #### Step up JavaScript
 
   - [ ] `bind`, `call`, `apply`
-  - [ ] Scopes
+  - [x] Scopes
   - [ ] Hoisting
   - [ ] Event bubbling
   - [ ] Event Capturing
