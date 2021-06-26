@@ -124,33 +124,33 @@
         - [x] undefined
    - [x] `typeof` operator [Article](https://www.freecodecamp.org/news/javascript-data-types-typeof-explained/)
    - [x] String functions 
-        - [ ] `.concat` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/concat)
-        - [ ] `length` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
-        - [ ] `toUpperCase` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase)
-        - [ ] `toLowerCase` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
-        - [ ] `subString` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring)
-        - [ ] `split` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
-        - [ ] template literals [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) [Video](https://egghead.io/lessons/javascript-use-template-literals-to-embed-expressions-in-strings?af=5buvlr)
+        - [x] `.concat` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/concat)
+        - [x] `length` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
+        - [x] `toUpperCase` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase)
+        - [x] `toLowerCase` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase)
+        - [x] `subString` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring)
+        - [x] `split` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+        - [x] template literals [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) [Video](https://egghead.io/lessons/javascript-use-template-literals-to-embed-expressions-in-strings?af=5buvlr)
 - [x] Operators
-    - [ ] Arithmetic Operators [Article](https://www.w3schools.com/jsref/jsref_operators.asp)
-        - [ ] `+`
-        - [ ] `-`
-        - [ ] `/`
-        - [ ] ` *`
-        - [ ] `++` 
-        - [ ] `--`
-        - [ ] `%`
+    - [x] Arithmetic Operators [Article](https://www.w3schools.com/jsref/jsref_operators.asp)
+        - [x] `+`
+        - [x] `-`
+        - [x] `/`
+        - [x] ` *`
+        - [x] `++` 
+        - [x] `--`
+        - [x] `%`
     - [x] Assignment Operators [ Article ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators)    
         - [ ] `=` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment)
-    - [ ] `<`
-    - [ ] `>` 
-    - [ ] `<=`
-    - [ ] `>=` 
-    - [ ] `==` 
-    - [ ] `===`
-    - [ ] `&&` 
-    - [ ] `||` 
-    - [ ] `Ternary operators ? , :`
+    - [x] `<`
+    - [x] `>` 
+    - [x] `<=`
+    - [x] `>=` 
+    - [x] `==` 
+    - [x] `===`
+    - [x] `&&` 
+    - [x] `||` 
+    - [x] `Ternary operators ? , :`
    - [ ] Loops
      - [x] `for`
      - [ ] `while`
