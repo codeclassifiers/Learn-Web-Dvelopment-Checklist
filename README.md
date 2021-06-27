@@ -141,7 +141,7 @@
         - [x] `--`
         - [x] `%`
     - [x] Assignment Operators [ Article ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators)    
-        - [ ] `=` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment)
+    - [ ] `=` [Article](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment)
     - [x] `<`
     - [x] `>` 
     - [x] `<=`
