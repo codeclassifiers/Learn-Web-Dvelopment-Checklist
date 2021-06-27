@@ -1,8 +1,8 @@
 ## [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [ ] HTML main tags 
-  - [ ] `<html>` [Link](https://www.w3docs.com/learn-html/html-html-tag.html)
-  - [ ] `<head>` [Link](https://www.w3docs.com/learn-html/html-head-tag.html)
-  - [ ] `<body>` [Link](https://www.w3docs.com/learn-html/html-body-tag.html)
+  - [x] `<html>` [Link](https://www.w3docs.com/learn-html/html-html-tag.html)
+  - [x] `<head>` [Link](https://www.w3docs.com/learn-html/html-head-tag.html)
+  - [x] `<body>` [Link](https://www.w3docs.com/learn-html/html-body-tag.html)
   - [ ] `<script>` [Link](https://www.w3docs.com/learn-html/html-script-tag.html)
   - [ ] `<style>` [Link](https://www.w3docs.com/learn-html/html-style-tag.html)
   - [ ] `<link>` [Link](https://www.w3docs.com/learn-html/html-link-tag.html)
@@ -21,25 +21,25 @@
   - [ ] `<footer>` [Link](https://www.w3docs.com/learn-html/html-footer-tag.html)
   - [ ] `<summary>` [Link](https://www.w3docs.com/learn-html/html-summary-tag.html)
 
-- [ ] HTML Elements and their attributes
-  - [ ] Documents `<!DOCTYPE>` [Link](https://www.w3docs.com/learn-html/html-doctype-declaration.html)
-  - [ ] Headings `<h1> - <h6>` [Link](https://www.w3docs.com/learn-html/html-h1-h6-tags.html)
-  - [ ] Paragraph `<p>` [Link](https://www.w3docs.com/learn-html/html-p-tag.html)
-  - [ ] Lists `<li>, <ul>, <dl>` [Link](https://www.w3docs.com/learn-html/html-lists.html)
-  - [ ] Links `<a>` [Link](https://www.w3docs.com/learn-html/html-a-tag.html)
-  - [ ] Images `<img>` [Link](https://www.w3docs.com/learn-html/html-images.html)
-  - [ ] Table `<table>`[Link](https://www.w3docs.com/learn-html/html-table.html)
+- [x] HTML Elements and their attributes
+  - [x] Documents `<!DOCTYPE>` [Link](https://www.w3docs.com/learn-html/html-doctype-declaration.html)
+  - [x] Headings `<h1> - <h6>` [Link](https://www.w3docs.com/learn-html/html-h1-h6-tags.html)
+  - [x] Paragraph `<p>` [Link](https://www.w3docs.com/learn-html/html-p-tag.html)
+  - [x] Lists `<li>, <ul>, <dl>` [Link](https://www.w3docs.com/learn-html/html-lists.html)
+  - [x] Links `<a>` [Link](https://www.w3docs.com/learn-html/html-a-tag.html)
+  - [x] Images `<img>` [Link](https://www.w3docs.com/learn-html/html-images.html)
+  - [x] Table `<table>`[Link](https://www.w3docs.com/learn-html/html-table.html)
 
-- [ ] HTML Formatting
-  - [ ] `<b>` - Bold text [Link](https://www.w3docs.com/learn-html/html-b-tag.html)
-  - [ ] `<strong>` - Important text [Link](https://www.w3docs.com/learn-html/html-strong-tag.html)
-  - [ ] `<small>` - Smaller text
-  - [ ] `<i>` - Italic text [Link](https://www.w3docs.com/learn-html/html-i-tag.html)
-  - [ ] `<em>` - Emphasized text [Link](https://www.w3docs.com/learn-html/html-em-tag.html)
-  - [ ] `<sub>` - Subscript [Link](https://www.w3docs.com/learn-html/html-sub-tag.html)
-  - [ ] `<sup>` - superscript [Link](https://www.w3docs.com/learn-html/html-sup-tag.html)
+- [x] HTML Formatting
+  - [x] `<b>` - Bold text [Link](https://www.w3docs.com/learn-html/html-b-tag.html)
+  - [x] `<strong>` - Important text [Link](https://www.w3docs.com/learn-html/html-strong-tag.html)
+  - [x] `<small>` - Smaller text
+  - [x] `<i>` - Italic text [Link](https://www.w3docs.com/learn-html/html-i-tag.html)
+  - [x] `<em>` - Emphasized text [Link](https://www.w3docs.com/learn-html/html-em-tag.html)
+  - [x] `<sub>` - Subscript [Link](https://www.w3docs.com/learn-html/html-sub-tag.html)
+  - [x] `<sup>` - superscript [Link](https://www.w3docs.com/learn-html/html-sup-tag.html)
   - [ ] `<pre>` - preformatted text [Link](https://www.w3docs.com/learn-html/html-pre-tag.html)
-- [ ] HTML Comments `<!-- -->` [Link](https://www.w3docs.com/learn-html/html-comments.html)
+- [x] HTML Comments `<!-- -->` [Link](https://www.w3docs.com/learn-html/html-comments.html)
 - [ ] HTML forms [Link](https://www.w3docs.com/learn-html/html-form-tag.html)
     - [ ] `<input>` [Link](https://www.w3docs.com/learn-html/html-input-tag.html)
   - [ ] `<textarea>` [Link](https://www.w3docs.com/learn-html/html-textarea-tag.html)
@@ -283,9 +283,6 @@
 
 #### Front end library:
 - [ ] Redux
-
-#### APIs:
-- [ ] GraphQL
 
 
 ## Suggested learning process
