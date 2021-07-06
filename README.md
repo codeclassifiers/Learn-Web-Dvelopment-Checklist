@@ -9,17 +9,17 @@
   - [ ] `<meta>` [Link](https://www.w3docs.com/learn-html/html-meta-tag.html)
   
 - [ ] HTML5 Structural / Semantic elements
-  - [ ] `<article>` [Link](https://www.w3docs.com/learn-html/html-article-tag.html)
+  - [x] `<article>` [Link](https://www.w3docs.com/learn-html/html-article-tag.html)
   - [ ] `<address>` [Link](https://www.w3docs.com/learn-html/html-address-tag.html)
-  - [ ] `<aside>` [Link](https://www.w3docs.com/learn-html/html-aside-tag.html)
+  - [x] `<aside>` [Link](https://www.w3docs.com/learn-html/html-aside-tag.html)
   - [ ] `<dialog>` [Link](https://www.w3docs.com/learn-html/html-dialog-tag.html)
   - [ ] `<details>` [Link](https://www.w3docs.com/learn-html/html-details-tag.html)
   - [ ] `<figure>` [Link](https://www.w3docs.com/learn-html/html-figure-tag.html)
   - [ ] `<main>` [Link](https://www.w3docs.com/learn-html/html-main-tag.html)
-  - [ ] `<nav>` [Link](https://www.w3docs.com/learn-html/html-nav-tag.html)
-  - [ ] `<header>` [Link](https://www.w3docs.com/learn-html/html-header-tag.html)
-  - [ ] `<footer>` [Link](https://www.w3docs.com/learn-html/html-footer-tag.html)
-  - [ ] `<summary>` [Link](https://www.w3docs.com/learn-html/html-summary-tag.html)
+  - [x] `<nav>` [Link](https://www.w3docs.com/learn-html/html-nav-tag.html)
+  - [x] `<header>` [Link](https://www.w3docs.com/learn-html/html-header-tag.html)
+  - [x] `<footer>` [Link](https://www.w3docs.com/learn-html/html-footer-tag.html)
+  - [x] `<summary>` [Link](https://www.w3docs.com/learn-html/html-summary-tag.html)
 
 - [x] HTML Elements and their attributes
   - [x] Documents `<!DOCTYPE>` [Link](https://www.w3docs.com/learn-html/html-doctype-declaration.html)
@@ -40,15 +40,15 @@
   - [x] `<sup>` - superscript [Link](https://www.w3docs.com/learn-html/html-sup-tag.html)
   - [ ] `<pre>` - preformatted text [Link](https://www.w3docs.com/learn-html/html-pre-tag.html)
 - [x] HTML Comments `<!-- -->` [Link](https://www.w3docs.com/learn-html/html-comments.html)
-- [ ] HTML forms [Link](https://www.w3docs.com/learn-html/html-form-tag.html)
-    - [ ] `<input>` [Link](https://www.w3docs.com/learn-html/html-input-tag.html)
-  - [ ] `<textarea>` [Link](https://www.w3docs.com/learn-html/html-textarea-tag.html)
-  - [ ] `<button>` [Link](https://www.w3docs.com/learn-html/html-button-tag.html)
-  - [ ] `<select>` [Link](https://www.w3docs.com/learn-html/html-select-tag.html)
-  - [ ] `<option>` [Link](https://www.w3docs.com/learn-html/html-option-tag.html)
-  - [ ] `<fieldset>` [Link](https://www.w3docs.com/learn-html/html-fieldset-tag.html)
-  - [ ] `<label>` [Link](https://www.w3docs.com/learn-html/html-label-tag.html)
-  - [ ] `<legend>` [Link](https://www.w3docs.com/learn-html/html-legend-tag.html)
+- [x] HTML forms [Link](https://www.w3docs.com/learn-html/html-form-tag.html)
+  - [x] `<input>` [Link](https://www.w3docs.com/learn-html/html-input-tag.html)
+  - [x] `<textarea>` [Link](https://www.w3docs.com/learn-html/html-textarea-tag.html)
+  - [x] `<button>` [Link](https://www.w3docs.com/learn-html/html-button-tag.html)
+  - [x] `<select>` [Link](https://www.w3docs.com/learn-html/html-select-tag.html)
+  - [x] `<option>` [Link](https://www.w3docs.com/learn-html/html-option-tag.html)
+  - [x] `<fieldset>` [Link](https://www.w3docs.com/learn-html/html-fieldset-tag.html)
+  - [x] `<label>` [Link](https://www.w3docs.com/learn-html/html-label-tag.html)
+  - [x] `<legend>` [Link](https://www.w3docs.com/learn-html/html-legend-tag.html)
     
 
 ## CSS
