@@ -52,12 +52,12 @@
     
 
 ## CSS
-   - [ ] Adding a CSS stylesheet to an HTML page using `<link>`
-   - [ ] CSS Selectors
-   - [ ] Color
-     - [ ] using hex eg: `#ff0000`
-     - [ ] rgb eg: `rgb(0,0,255)`
-     - [ ] common color names eg: `red, pink, brown`
+   - [x] Adding a CSS stylesheet to an HTML page using `<link>`
+   - [x] CSS Selectors
+   - [x] Color
+     - [x] using hex eg: `#ff0000`
+     - [x] rgb eg: `rgb(0,0,255)`
+     - [x] common color names eg: `red, pink, brown`
    - [ ] Font
      - [ ] Family
      - [ ] Size
